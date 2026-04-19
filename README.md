@@ -1,7 +1,7 @@
 # 👋 Arthur | Computer Engineering Student
 
-> Back-end Developer enthusiast of Electronics and Game Dev.  
-> 💼 **C# & Python** | 🕹️ **C#, C, C++ (Embedded & Games)**
+> Full-Stack Developer enthusiast of Electronics and Game Dev.  
+> 💼 **C# | Typescript | Python ** | 🕹️ **C#, C, C++ (Embedded & Games)**
 
 ## 🛠️ Stack
 
