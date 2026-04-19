@@ -1,7 +1,7 @@
 # 👋 Arthur | Computer Engineering Student
 
 > Full-Stack Developer enthusiast of Electronics and Game Dev.  
-> 💼 **C# | Typescript | Python ** | 🕹️ **C#, C, C++ (Embedded & Games)**
+> 💼 **C#, Typescript, Python** | 🕹️ **C#, C, C++ (Embedded & Games)**
 
 ## 🛠️ Stack
 
